@@ -5,7 +5,7 @@
  * @n: Decimal number to examine.
  * @index: Index of the bit to retrieve.
  *
- * Return: The value of the requested bit.
+ * Returns: The value of the requested bit.
  */
 int get_bit(unsigned long int n, unsigned int index)
 {
